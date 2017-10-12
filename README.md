@@ -15,6 +15,8 @@ Presentaciones para la Asignatura Instrumentación I en Instituto Profesional Ar
 
 007 [https://felixpinok.github.io/insib/007/](https://felixpinok.github.io/insib/007/)
 
+008 [https://felixpinok.github.io/insib/008/](https://felixpinok.github.io/insib/008/)
+
 ProbANDO jejejeje
 *GGGGGG*
 **GGGGGG**
